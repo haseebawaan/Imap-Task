@@ -55,7 +55,7 @@
                     </ul>
                     <hr>
                     @endif
-                    {{$i++}}
+                    <?php $i++ ?>
                     @endforeach
                 </div>
             </div>
